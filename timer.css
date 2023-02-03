@@ -3,3 +3,8 @@
   text-align: center;
   margin: 50px 0;
 }
+
+#countdown {
+  font-weight: bold;
+  color: red;
+}
